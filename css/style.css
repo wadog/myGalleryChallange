@@ -95,7 +95,7 @@ p {
 }
 
 .dos img {
-    width: 490px;
+    width: 590px;
 }
 
 .tres {
@@ -138,10 +138,7 @@ p {
     font-weight: 500;
     font-size: 14px;
     line-height: 17px;
-    /* identical to box height */
-
     text-align: center;
-
     color: #B9BDCF;
 }
 
@@ -150,6 +147,7 @@ p {
 }
 
 /* mobile */
+
 @media (max-width: 376px) {
     .user img {
         width: 100px;
